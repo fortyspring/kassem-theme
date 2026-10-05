@@ -1,5 +1,29 @@
-# KASSEM Theme  Official product showcase maintained by **Mohamad Kassem**.  ## Overview  Product showcase for the KASSEM professional WordPress publishing theme.  ## Technology  WordPress â€¢ PHP â€¢ RTL â€¢ Responsive UI  ## Key Features  - Professional RTL layouts
-- Responsive news blocks
-- Sidebar controls
-- Mobile optimization
-- SEO-ready structure  ## Status  Production / Active Development  ## Official Website  https://beiruttime-lb.com/  ## Source Code  **Proprietary software. Source code is not publicly distributed.**  This repository contains product information and documentation only. It does not contain commercial source code, APK files, ZIP packages, credentials, private APIs, or deployment secrets.  Â© 2026 Mohamad Kassem / The Verificat Agency. All rights reserved.
+# KASSEM Theme
+
+![KASSEM Theme live implementation](assets/beiruttime-live.png)
+
+Professional WordPress publishing theme by **Mohamad Kassem**.
+
+## Live Implementation
+
+**BeirutTime â€” Ø¨ØªÙˆÙ‚ÙŠØª Ø¨ÙŠØ±ÙˆØª**
+
+https://beiruttime-lb.com/
+
+## Highlights
+
+- RTL-first publishing layout
+- Responsive desktop and mobile experience
+- News sections and editorial blocks
+- Breaking-news and category-oriented presentation
+- Featured-image support
+- SEO-ready WordPress structure
+- Designed for professional media publishing
+
+## Repository Policy
+
+**Showcase and documentation only.**
+
+The commercial source code, installable theme packages, deployment credentials, private APIs, and production secrets are not distributed from this public repository.
+
+Â© 2026 Mohamad Kassem / The Verificat Agency. All rights reserved.
