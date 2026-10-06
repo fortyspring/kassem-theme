@@ -1,7 +1,7 @@
 # KASSEM Theme
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fortyspring/kassem-theme/main/assets/beiruttime-live.png" alt="KASSEM Theme — BeirutTime" width="100%">
+  <img src="https://raw.githubusercontent.com/fortyspring/kassem-theme/main/assets/beiruttime-live-bright.png" alt="KASSEM Theme — BeirutTime" width="100%">
 </p>
 
 Professional Arabic RTL WordPress publishing theme by **Mohamad Kassem**.
