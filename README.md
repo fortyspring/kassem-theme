@@ -1,23 +1,30 @@
 # KASSEM Theme
 
-![KASSEM Theme live implementation](assets/beiruttime-live.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fortyspring/kassem-theme/main/assets/beiruttime-live.png" alt="KASSEM Theme â€” BeirutTime" width="100%">
+</p>
 
-Professional WordPress publishing theme by **Mohamad Kassem**.
+Professional Arabic RTL WordPress publishing theme by **Mohamad Kassem**.
 
-## Live implementation
+## Live Implementation
+
 **BeirutTime â€” Ø¨ØªÙˆÙ‚ÙŠØª Ø¨ÙŠØ±ÙˆØª**  
 https://beiruttime-lb.com/
 
 ## Highlights
-- RTL-first publishing layout
-- Responsive desktop and mobile experience
-- News sections and editorial blocks
-- Breaking-news and category-oriented presentation
+
+- Arabic RTL-first layout
+- Responsive desktop and mobile design
+- Breaking-news ticker
+- Structured homepage news blocks
+- Sidebar and editorial widgets
+- Category-driven publishing layout
 - Featured-image support
 - SEO-ready WordPress structure
-- Built for professional media publishing
+- Built for professional news publishing
 
-## Source code policy
+## Source Code Policy
+
 **Showcase and documentation only.**
 
 The commercial source code, installable ZIP packages, deployment credentials, private APIs, and production secrets are not distributed from this public repository.
