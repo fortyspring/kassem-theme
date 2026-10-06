@@ -1,14 +1,14 @@
 # KASSEM Theme
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fortyspring/kassem-theme/main/assets/beiruttime-live.png" alt="KASSEM Theme â€” BeirutTime" width="100%">
+  <img src="https://raw.githubusercontent.com/fortyspring/kassem-theme/main/assets/beiruttime-live.png" alt="KASSEM Theme — BeirutTime" width="100%">
 </p>
 
 Professional Arabic RTL WordPress publishing theme by **Mohamad Kassem**.
 
 ## Live Implementation
 
-**BeirutTime â€” Ø¨ØªÙˆÙ‚ÙŠØª Ø¨ÙŠØ±ÙˆØª**  
+**BeirutTime — بتوقيت بيروت**  
 https://beiruttime-lb.com/
 
 ## Highlights
@@ -29,4 +29,4 @@ https://beiruttime-lb.com/
 
 The commercial source code, installable ZIP packages, deployment credentials, private APIs, and production secrets are not distributed from this public repository.
 
-Â© 2026 Mohamad Kassem / The Verificat Agency. All rights reserved.
+© 2026 Mohamad Kassem / The Verificat Agency. All rights reserved.
